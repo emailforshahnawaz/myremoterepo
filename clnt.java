@@ -1,6 +1,7 @@
 import java.net.*;
 import java.io.*;
 import java.util.*;
+//commment in client
 class clnt{
 public static void main(String arg[])throws Exception{
 Socket s=new Socket("localhost",9999);
